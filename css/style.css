@@ -7,8 +7,8 @@
 }
 
 body {
-   background-color: #30002d;
-   color: #f1dbff;    
+   background-color: #fc972a;
+   color: #111111;    
 }
 
 li:not(.s) {
@@ -35,7 +35,7 @@ li:hover {
 }
 
 a {
-   color: #ff00ef; !important 
+   color: #fcd22a; !important 
    text-decoration: underline
 }
 
